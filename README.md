@@ -1,4 +1,5 @@
 # update
+
  To run the file as a command do the following: 
  go to the path of the file 
  $: sudo chmod +x update 
